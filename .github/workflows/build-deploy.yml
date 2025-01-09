@@ -30,4 +30,4 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # toKen私密变量
         with:
           folder: docs/.vuepress/dist
-          branch: gh-pages # 部署到的分支
+          branch: blog-pages # 部署到的分支
