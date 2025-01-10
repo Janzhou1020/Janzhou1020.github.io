@@ -6,7 +6,7 @@ module.exports = [
       { text: '随手记录', link: '/three/' },
       { text: '故障处理', link: '/three/' },
       { text: 'Nginx', link: '/three/' },
-      { text: 'MySQL', link: '/three/' },
+      { text: 'MySQL', link: '/mysql/' },
       { text: 'Ansible', link: '/three/' },
       { text: 'Docker', link: '/three/' },
       { text: 'Zabbix', link: '/three/' },
