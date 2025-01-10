@@ -5,14 +5,14 @@ module.exports = [
     "link",
     {
       rel: "icon",
-      href: "https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20220720_132133.ico",
+      href: "/img/logo.ico",
     },
   ], //favicons，资源放在public文件夹
   [
     "meta",
     {
       name: "keywords",
-      content: "二丫讲梵,golang,vue,go-web,go-admin,go-ldap-admin",
+      content: "星途物语、运维、编程",
     },
   ],
   // ['meta', { name: 'baidu-site-verification', content: 'code-LTKHwOecxI' }], // 百度统计的站长验证
