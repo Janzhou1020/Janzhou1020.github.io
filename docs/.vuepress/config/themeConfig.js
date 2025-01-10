@@ -9,7 +9,7 @@ module.exports = {
   repo: "Janzhou1020", // 导航栏右侧生成Github链接
   searchMaxSuggestions: 10, // 搜索结果显示最大数
   lastUpdated: "上次更新", // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
-  editLinks: true, // 启用编辑链接
+  editLinks: false, // 启用编辑链接
   docsDir: "docs", // 编辑的文件夹
   docsBranch: "main", // 编辑的分支
   searchPlaceholder: "按下 𝑺 搜索", // 可选：搜索栏占位文本，默认："$ grep ..."
@@ -34,10 +34,10 @@ module.exports = {
 
   sidebar: { mode: "structuring", collapsable: false }, // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
   //pageStyle: "line", // 页面风格，可选值：'card'卡片 | 'line' 线（未设置bodyBgImg时才生效）， 默认'card'。 说明：card时背景显示灰色衬托出卡片样式，line时背景显示纯色，并且部分模块带线条边框
-  //updateBar: {
+  updateBar: {
     // 最近更新栏
-    //showToArticle: false, // 显示到文章页底部，默认true
-  //},
+    showToArticle: false, // 显示到文章页底部，默认true
+  },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
     name: "星途物语", // 必需
