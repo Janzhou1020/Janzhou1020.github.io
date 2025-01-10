@@ -33,15 +33,20 @@ module.exports = {
   // pageButton: false, // 是否显示快捷翻页按钮，默认true
 
   sidebar: { mode: "structuring", collapsable: false }, // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
-  pageStyle: "line", // 页面风格，可选值：'card'卡片 | 'line' 线（未设置bodyBgImg时才生效）， 默认'card'。 说明：card时背景显示灰色衬托出卡片样式，line时背景显示纯色，并且部分模块带线条边框
-  updateBar: {
+  //pageStyle: "line", // 页面风格，可选值：'card'卡片 | 'line' 线（未设置bodyBgImg时才生效）， 默认'card'。 说明：card时背景显示灰色衬托出卡片样式，line时背景显示纯色，并且部分模块带线条边框
+  //updateBar: {
     // 最近更新栏
-    showToArticle: false, // 显示到文章页底部，默认true
-  },
+    //showToArticle: false, // 显示到文章页底部，默认true
+  //},
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: "二丫讲梵", // 必需
-    link: "https://github.com/eryajf", // 可选的
+    name: "星途物语", // 必需
+    link: "https://github.com/Janzhou1020", // 可选的
+  },
+  blogger: {
+    avatar: 'https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200103123203.jpg',
+    name: 'Evan Xu',
+    slogan: '前端界的小学生',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -50,23 +55,18 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/eryajf",
+        link: "https://github.com/Janzhou1020",
       },
       {
         iconClass: "icon-youjian",
         title: "发邮件",
-        link: "mailto:eryajf@163.com",
-      },
-      {
-        iconClass: "icon-gitee",
-        title: "Gitee",
-        link: "https://gitee.com/eryajf",
+        link: "15629272568@163.com",
       },
     ],
   },
   footer: {
     // 页脚信息
-    createYear: 2022, // 博客创建年份
+    createYear: 2024, // 博客创建年份
     copyrightInfo:
       'Eryajf | <a href="https://github.com/eryajf/星途物语/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   },
