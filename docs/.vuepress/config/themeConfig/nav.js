@@ -21,6 +21,11 @@ module.exports = [
       { text: 'Python', link: '/three/' },
     ]
   },
-  { text: '瞬记', link: '/record/' },
+  {
+    text: '瞬记', link: '/record/', items: [
+    { text: '圈圈空间', link: '/three/' },
+    { text: '做饭这件事', link: '/three/' },
+  ]
+  },
   { text: '归档', link: '/archives/' },
 ]
