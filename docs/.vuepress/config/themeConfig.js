@@ -68,6 +68,6 @@ module.exports = {
     // 页脚信息
     createYear: 2024, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://github.com/eryajf/星途物语/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      '星途物语 | This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.', // 博客版权信息，支持a标签
   },
 };
