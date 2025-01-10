@@ -22,5 +22,5 @@ module.exports = [
     ]
   },
   { text: '瞬记', link: '/message-board/' },
-  { text: '归档', link: '/message-board/' },
+  { text: '归档', link: '/archives/' },
 ]
