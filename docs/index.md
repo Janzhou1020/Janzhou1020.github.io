@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20220720_132208.png
 tagline: Vdoing博客主题模板
 heroText: 星途物语
 actionText: 开始浏览 →
