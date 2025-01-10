@@ -44,9 +44,9 @@ module.exports = {
     link: "https://github.com/Janzhou1020", // 可选的
   },
   blogger: {
-    avatar: 'https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200103123203.jpg',
-    name: 'Evan Xu',
-    slogan: '前端界的小学生',
+    avatar: '/img/avatar.jpg',
+    name: '星途物语',
+    slogan: '尚记时，记之',
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
