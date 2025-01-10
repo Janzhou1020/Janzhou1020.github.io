@@ -6,10 +6,10 @@ bannerBg: /img/backg.jpg # auto => 网格纹背景(有bodyBgImg时无背景)，�
 features: # 可选的
   - title: 运维
     details: 运维学习笔记目录
-    link: /web/ # 可选
+    link: /oam/ # 可选
   - title: 编程
     details: 编程学习笔记目录
-    link: /ui/
+    link: /pge/
   - title: 瞬记
     details: 记录这一刻
     link: /technology/
