@@ -66,6 +66,6 @@ module.exports = {
   },
   footer: {
     // 页脚信息
-    createYear: 2024-2025, // 博客创建年份
+    createYear: 2024, // 博客创建年份
   },
 };
