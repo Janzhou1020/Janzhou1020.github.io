@@ -2,7 +2,7 @@
 module.exports = [
   { text: '首页', link: '/' },
   {
-    text: '运维', items: [
+    text: '运维', link: '/oam', items: [
       { text: '随手记录', link: '/three/' },
       { text: '故障处理', link: '/three/' },
       { text: 'Nginx', link: '/three/' },
@@ -16,11 +16,11 @@ module.exports = [
     ]
   },
   {
-    text: '编程', items: [
+    text: '编程', link: '/pge', items: [
       { text: 'Shell', link: '/three/' },
       { text: 'Python', link: '/three/' },
     ]
   },
-  { text: '瞬记', link: '/message-board/' },
+  { text: '瞬记', link: '/record/' },
   { text: '归档', link: '/archives/' },
 ]
