@@ -32,7 +32,7 @@ module.exports = [
       clientId: "adb9fb0ac1159e00ce7f",
       clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
       owner: "eryajf",
-      repo: "迷雾星途",
+      repo: "星途物语",
     },
   ],
   [

@@ -1,14 +1,14 @@
 <div align="center">
-<h1>迷雾星途</h1>
+<h1>星途物语</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/迷雾星途)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/迷雾星途.svg)](https://github.com/eryajf/迷雾星途/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/迷雾星途)](https://github.com/eryajf/迷雾星途/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/迷雾星途)](https://github.com/eryajf/迷雾星途/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/迷雾星途)](https://github.com/eryajf/迷雾星途/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/迷雾星途.svg)](https://github.com/eryajf/迷雾星途)
-[![website eryajf.github.io/迷雾星途](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/迷雾星途.svg)](https://eryajf.github.io/迷雾星途/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/星途物语)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/星途物语.svg)](https://github.com/eryajf/星途物语/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/星途物语)](https://github.com/eryajf/星途物语/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/星途物语)](https://github.com/eryajf/星途物语/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/星途物语)](https://github.com/eryajf/星途物语/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/星途物语.svg)](https://github.com/eryajf/星途物语)
+[![website eryajf.github.io/星途物语](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/星途物语.svg)](https://eryajf.github.io/星途物语/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -39,7 +39,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[迷雾星途](https://github.com/eryajf/迷雾星途)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[星途物语](https://github.com/eryajf/星途物语)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.jsdelivr.net/gh/eryajf/tu/img/image_20220721_153908.png)
 
