@@ -5,14 +5,14 @@ module.exports = [
     text: '运维', link: '/oam', items: [
       { text: '随手记录', link: '/three/' },
       { text: '故障处理', link: '/three/' },
-      { text: 'Nginx', link: '/three/' },
+      { text: 'Nginx', link: '/nginx/' },
       { text: 'MySQL', link: '/mysql/' },
-      { text: 'Ansible', link: '/three/' },
-      { text: 'Docker', link: '/three/' },
-      { text: 'Zabbix', link: '/three/' },
+      { text: 'Ansible', link: '/ansible/' },
+      { text: 'Docker', link: '/docker/' },
+      { text: 'Zabbix', link: '/zabbix/' },
       { text: 'Prometheus', link: '/three/' },
-      { text: 'GitLab', link: '/three/' },
-      { text: 'Jenkins', link: '/three/' },
+      { text: 'GitLab', link: '/gitlab/' },
+      { text: 'Jenkins', link: '/jenkins/' },
     ]
   },
   {
