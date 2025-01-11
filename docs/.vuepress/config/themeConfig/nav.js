@@ -10,7 +10,7 @@ module.exports = [
       { text: 'Ansible', link: '/ansible/' },
       { text: 'Docker', link: '/docker/' },
       { text: 'Zabbix', link: '/zabbix/' },
-      { text: 'Prometheus', link: '/three/' },
+      { text: 'Prometheus', link: '/prometheus/' },
       { text: 'GitLab', link: '/gitlab/' },
       { text: 'Jenkins', link: '/jenkins/' },
     ]
