@@ -8,7 +8,8 @@ module.exports = {
   description: '星途物语',
   base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
-    lineNumbers: true, // 代码行号
+    lineNumbers: true,
+    extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
   head,
   plugins: [
