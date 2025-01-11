@@ -67,6 +67,6 @@ module.exports = {
   footer: {
     // 页脚信息
     createYear: 2024, // 博客创建年份
-    copyrightInfo: <a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2024086820号</a>,
+    copyrightInfo: '<a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2024086820号</a>',
   },
 };
