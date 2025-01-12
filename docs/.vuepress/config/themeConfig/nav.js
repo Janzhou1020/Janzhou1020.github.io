@@ -27,6 +27,7 @@ module.exports = [
     { text: '做饭这件事', link: '/cooking/' },
   ]
   },
+  { text: '收藏站点', link: '/pages/favorite/' },
   { text: '留言板', link: '/message-board/' },
   { text: '归档', link: '/archives/' },
 ]
