@@ -34,5 +34,11 @@ module.exports = [
       type: "text/javascript",
       src: "/js/pgmanor-self.js",
     },
+    "script",
+    {
+      language: "javascript",
+      type: "text/javascript",
+      src: "/js/spider.js",
+    },
   ],
 ];
