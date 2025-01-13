@@ -8,9 +8,12 @@ module.exports = [
       { text: 'Nginx', link: '/nginx/' },
       { text: 'MySQL', link: '/mysql/' },
       { text: 'Ansible', link: '/ansible/' },
+      { text: 'Nexus', link: '/pages/nexus1/' },
+      { text: 'Tomcat', link: '/tomcat/' },
       { text: 'Docker', link: '/docker/' },
       { text: 'Zabbix', link: '/zabbix/' },
       { text: 'Prometheus', link: '/prometheus/' },
+      { text: 'Git', link: '/git/' },
       { text: 'GitLab', link: '/gitlab/' },
       { text: 'Jenkins', link: '/jenkins/' },
     ]
