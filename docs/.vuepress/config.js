@@ -14,7 +14,7 @@ module.exports = {
   head: [
     [
       'script',
-      { src: '/js/spider.js' }
+      { src: '/js/cet4.js' }
     ]
   ],
   plugins: [
