@@ -60,7 +60,7 @@ module.exports = {
       {
         iconClass: "icon-youjian",
         title: "发邮件",
-        link: "15629272568@163.com",
+        link: "mailto:15629272568@163.com",
       },
     ],
   },
