@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[129],{581:function(t,n,s){"use strict";s.r(n);var e=s(7),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("在这里，你可以看见我的吐槽 或是 我对一些事情的见解 OR 想法\n总之，这类似于一个朋友圈，但是是属于我自己的朋友圈")])])}),[],!1,null,null,null);n.default=o.exports}}]);
