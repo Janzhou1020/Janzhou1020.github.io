@@ -1,5 +1,4 @@
 const nav = require("./themeConfig/nav.js");
-const spider = require("../public/js/spider.js")
 // const sidebar = require('./themeConfig/sidebar.js');
 
 // 主题配置
