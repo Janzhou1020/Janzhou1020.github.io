@@ -11,7 +11,12 @@ module.exports = {
     lineNumbers: true,
     extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
-  head,
+  head: [
+    [
+      'script',
+      { src: '/js/spider.js' }
+    ]
+  ],
   plugins: [
     [
       "vuepress-plugin-vssue-global",
