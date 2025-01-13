@@ -11,12 +11,13 @@ module.exports = {
     lineNumbers: true,
     extractHeaders: ['h2', 'h3', 'h4', 'h5', 'h6'], // 提取标题到侧边栏的级别，默认['h2', 'h3']
   },
-  head: [
-    [
-      'script',
-      { src: '/js/cet4.js' }
-    ]
-  ],
+  // head: [
+  //   [
+  //     'script',
+  //     { src: '/js/cet4.js' }
+  //   ]
+  // ],
+  head,
   plugins: [
     [
       "vuepress-plugin-vssue-global",
